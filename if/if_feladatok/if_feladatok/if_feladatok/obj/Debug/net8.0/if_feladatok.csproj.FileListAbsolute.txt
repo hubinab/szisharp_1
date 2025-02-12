@@ -1,0 +1,14 @@
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\bin\Debug\net8.0\if_feladatok.exe
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\bin\Debug\net8.0\if_feladatok.deps.json
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\bin\Debug\net8.0\if_feladatok.runtimeconfig.json
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\bin\Debug\net8.0\if_feladatok.dll
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\bin\Debug\net8.0\if_feladatok.pdb
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.AssemblyInfoInputs.cache
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.AssemblyInfo.cs
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.csproj.CoreCompileInputs.cache
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.dll
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\refint\if_feladatok.dll
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.pdb
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\if_feladatok.genruntimeconfig.cache
+D:\HB\2_felev\git\szisharp_1\if\if_feladatok\if_feladatok\if_feladatok\obj\Debug\net8.0\ref\if_feladatok.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HB\\2_felev\\git\\szisharp_1\\if\\if_feladatok\\if_feladatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9625F2C3-89CF-441B-9F33-385DC88E84E8}|if_feladatok\\if_feladatok.csproj|d:\\hb\\2_felev\\git\\szisharp_1\\if\\if_feladatok\\if_feladatok\\if_feladatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625F2C3-89CF-441B-9F33-385DC88E84E8}|if_feladatok\\if_feladatok.csproj|solutionrelative:if_feladatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HB\\2_felev\\git\\szisharp_1\\if\\if_feladatok\\if_feladatok\\if_feladatok\\Program.cs",
+              "RelativeDocumentMoniker": "if_feladatok\\Program.cs",
+              "ToolTip": "D:\\HB\\2_felev\\git\\szisharp_1\\if\\if_feladatok\\if_feladatok\\if_feladatok\\Program.cs",
+              "RelativeToolTip": "if_feladatok\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:17:01.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
