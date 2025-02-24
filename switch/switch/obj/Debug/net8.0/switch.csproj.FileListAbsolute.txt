@@ -1,0 +1,15 @@
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/bin/Debug/net8.0/switch
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/bin/Debug/net8.0/switch.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/bin/Debug/net8.0/switch.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/bin/Debug/net8.0/switch.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/bin/Debug/net8.0/switch.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/refint/switch.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/switch.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/obj/Debug/net8.0/ref/switch.dll

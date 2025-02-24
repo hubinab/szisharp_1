@@ -185,7 +185,7 @@ if (ho > 100)
     Console.WriteLine("Gőz!");
 
 // 14. feladat rendezés (ez még nem jó!)
-int tmpszam = 0;
+int tmpszam;
 Console.Write("Add meg az első számot: ");
 int szam7 = int.Parse(Console.ReadLine());
 Console.Write("Add meg a második számot: ");
@@ -193,28 +193,27 @@ int szam8 = int.Parse(Console.ReadLine());
 Console.Write("Add meg a harmadik számot: ");
 int szam9 = int.Parse(Console.ReadLine());
 
-if (szam7 < szam8)
+if (szam7 > szam8)
 {
     tmpszam = szam7;
     szam7 = szam8;
     szam8 = tmpszam;
 }
 
-if (szam8 < szam9)
-{
-    tmpszam = szam8;
-    szam8 = szam9;
-    szam9 = tmpszam;
-}
-
-if (szam9 < szam7)
+if (szam7 > szam9)
 {
     tmpszam = szam7;
     szam7 = szam9;
     szam9 = tmpszam;
 }
 
-Console.WriteLine($"A számok sorrendje: {szam7}, {szam8}, {szam9}");
+if (szam8 > szam9)
+{
+    tmpszam = szam8;
+    szam8 = szam9;
+    szam9 = tmpszam;
+}
+Console.WriteLine($"A számok sorrendje3: {szam7}, {szam8}, {szam9}");
 
 // 15. feladat gének
 Console.Write("Adja meg az első génpárját (a/b/0): ");
