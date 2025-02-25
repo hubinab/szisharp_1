@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = switch
-build_property.ProjectDir = /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/masodik_felev/git/szisharp_1/switch/switch/
+build_property.ProjectDir = /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/switch/switch/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
