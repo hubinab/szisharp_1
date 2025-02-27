@@ -31,7 +31,6 @@ Console.WriteLine("2. feladat -----------------");
 
 Random random = new();
 
-
 Console.Write("Add meg a telkek számát: ");
 int telkekszama = int.Parse(Console.ReadLine());
 for (int i = 0; i < telkekszama; i++)
@@ -50,15 +49,21 @@ for (int i = 0; i < telkekszama; i++)
 
 Console.WriteLine("3. feladat -----------------");
 
-Dictionary<String, string> [] szotarlista = new Dictionary<String, string> [200];
+Dictionary<string, string> [] szotarlista = new Dictionary<string, string> [200];
 int rekordokszama = 0;
-using (StreamReader filebe = new StreamReader("alloviz_a.txt"))
+using (StreamReader filebe = new ("alloviz_a.txt"))
 {
     filebe.ReadLine();
     for (int i = 0; !filebe.EndOfStream; i++, rekordokszama++)
     {
-        String [] adat = filebe.ReadLine().Split('\t');
-        szotarlista[i] = new Dictionary<string, string> {{"nev",adat[0]}, {"tipus",adat[1]}, {"terulet",adat[2].Replace('.',',')}, {"vizgyujto",adat[3]}};
+        string [] adat = filebe.ReadLine().Split('\t');
+        szotarlista[i] = new Dictionary<string, string> 
+        {
+            {"nev",adat[0]}, 
+            {"tipus",adat[1]}, 
+            {"terulet",adat[2]/*.Replace('.',',') - Apple-nél nem kell*/}, 
+            {"vizgyujto",adat[3]}
+        };
     }
 }
 
@@ -97,14 +102,14 @@ Console.WriteLine($"\tVízgyűjtő területe: {szotarlista[LegnagyobbToIndex]["v
 Console.WriteLine();
 
 
-double terulet (int a, int b)
+static double terulet (int a, int b)
 {
     return Math.Round(a * b / 3.6, 0);
 }
 
 Console.WriteLine("4. feladat -----------------");
 
-using (StreamWriter fileki = new StreamWriter("kozepes.txt"))
+using (StreamWriter fileki = new("kozepes.txt"))
 {
     for (int i = 0; i < rekordokszama; i++)
     {

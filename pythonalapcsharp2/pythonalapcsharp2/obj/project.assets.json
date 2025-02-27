@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/pythonalapcsharp.csproj",
-      "projectName": "pythonalapcsharp",
-      "projectPath": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/pythonalapcsharp.csproj",
+      "projectUniqueName": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp2/pythonalapcsharp2/pythonalapcsharp2.csproj",
+      "projectName": "pythonalapcsharp2",
+      "projectPath": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp2/pythonalapcsharp2/pythonalapcsharp2.csproj",
       "packagesPath": "/Users/balazs/.nuget/packages/",
-      "outputPath": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/",
+      "outputPath": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp2/pythonalapcsharp2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/balazs/.nuget/NuGet/NuGet.Config"

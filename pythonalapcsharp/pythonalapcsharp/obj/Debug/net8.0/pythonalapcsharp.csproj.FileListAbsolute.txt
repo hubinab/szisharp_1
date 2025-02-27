@@ -1,15 +1,31 @@
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\bin\Debug\net8.0\pythonalapcsharp.exe
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\bin\Debug\net8.0\pythonalapcsharp.deps.json
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\bin\Debug\net8.0\pythonalapcsharp.runtimeconfig.json
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\bin\Debug\net8.0\pythonalapcsharp.dll
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\bin\Debug\net8.0\pythonalapcsharp.pdb
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.GeneratedMSBuildEditorConfig.editorconfig
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.AssemblyInfoInputs.cache
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.AssemblyInfo.cs
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.csproj.CoreCompileInputs.cache
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.dll
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\refint\pythonalapcsharp.dll
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.pdb
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\pythonalapcsharp.genruntimeconfig.cache
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\obj\Debug\net8.0\ref\pythonalapcsharp.dll
-D:\HB\2_felev\c#\pythonalapcsharp\pythonalapcsharp\bin\Debug\net8.0\alloviz_a.txt
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.exe
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.deps.json
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.runtimeconfig.json
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.dll
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.pdb
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.AssemblyInfoInputs.cache
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.AssemblyInfo.cs
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.csproj.CoreCompileInputs.cache
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.dll
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/refint/pythonalapcsharp.dll
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.pdb
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.genruntimeconfig.cache
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/ref/pythonalapcsharp.dll
+D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/alloviz_a.txt
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/alloviz_a.txt
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/refint/pythonalapcsharp.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/ref/pythonalapcsharp.dll
