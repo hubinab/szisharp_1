@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pythonalapcsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db49b053cb92de7a06b737f8ffaa4d1008fa143c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f003e2213ca7082f848094f20aae75ed51ce299d")]
 [assembly: System.Reflection.AssemblyProductAttribute("pythonalapcsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pythonalapcsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

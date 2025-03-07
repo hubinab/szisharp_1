@@ -1,10 +1,8 @@
-﻿using System.Diagnostics.Metrics;
-
-Console.WriteLine("1. feladat -----------------");
+﻿Console.WriteLine("1. feladat -----------------");
 Console.Write("Add meg az első számot! ");
-int szam1 = int.Parse(Console.ReadLine());
+int szam1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Add meg a második számot! ");
-int szam2 = int.Parse(Console.ReadLine());
+int szam2 = Convert.ToInt32(Console.ReadLine());
 
 if (szam1 == szam2)
 {
@@ -26,7 +24,6 @@ else
     }
 }
 
-
 Console.WriteLine("2. feladat -----------------");
 
 Random random = new();
@@ -37,7 +34,7 @@ for (int i = 0; i < telkekszama; i++)
 {
     int a = random.Next(20,100);
     int b = random.Next(20,100);
-    double negyszogol = terulet(a, b);
+    int negyszogol = terulet(a, b);
     Console.WriteLine($"{i + 1}. telek:");
     Console.WriteLine($"\toldalai: {a} és {b} m");
     Console.WriteLine($"\tterülete: {negyszogol} négyszögöl");
@@ -47,16 +44,30 @@ for (int i = 0; i < telkekszama; i++)
     }
 }
 
+int terulet (int a, int b)
+{
+    return Convert.ToInt32(Math.Round(a * b / 3.6, 0));
+}
+
 Console.WriteLine("3. feladat -----------------");
+
 
 Dictionary<string, string> [] szotarlista = new Dictionary<string, string> [200];
 int rekordokszama = 0;
-using (StreamReader filebe = new ("alloviz_a.txt"))
+using (StreamReader filebe = new StreamReader ("alloviz.txt"))
 {
     filebe.ReadLine();
+    //for (int i = 0; filebe.EndOfStream != true; i++, rekordokszama++)
+    //for (int i = 0; filebe.EndOfStream == false; i++, rekordokszama++)
     for (int i = 0; !filebe.EndOfStream; i++, rekordokszama++)
     {
         string [] adat = filebe.ReadLine().Split('\t');
+
+        // adat [0] = "Gyova-Mámai-Holt-Tisza";
+        // adat [1] = "morotvató";
+        // adat [2] = "1.33";
+        // adat [3] = "35";
+
         szotarlista[i] = new Dictionary<string, string> 
         {
             {"nev",adat[0]}, 
@@ -64,6 +75,9 @@ using (StreamReader filebe = new ("alloviz_a.txt"))
             {"terulet",adat[2]/*.Replace('.',',') - Apple-nél nem kell*/}, 
             {"vizgyujto",adat[3]}
         };
+        // rekordokszama = i;
+        // rekordokszama++;
+        // rekordokszama += 1;
     }
 }
 
@@ -100,12 +114,6 @@ Console.WriteLine($"\tTípusa: {szotarlista[LegnagyobbToIndex]["tipus"]}");
 Console.WriteLine($"\tVízfelszíne: {szotarlista[LegnagyobbToIndex]["terulet"]} km2");
 Console.WriteLine($"\tVízgyűjtő területe: {szotarlista[LegnagyobbToIndex]["vizgyujto"]} km2");
 Console.WriteLine();
-
-
-static double terulet (int a, int b)
-{
-    return Math.Round(a * b / 3.6, 0);
-}
 
 Console.WriteLine("4. feladat -----------------");
 

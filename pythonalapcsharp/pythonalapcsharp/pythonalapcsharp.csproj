@@ -8,12 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="alloviz.txt" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="alloviz_a.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    <None Update="alloviz.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 

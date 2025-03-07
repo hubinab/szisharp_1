@@ -14,7 +14,6 @@ D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcs
 D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/ref/pythonalapcsharp.dll
 D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/alloviz_a.txt
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp
-/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/alloviz_a.txt
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.deps.json
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.runtimeconfig.json
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/pythonalapcsharp.dll
@@ -29,3 +28,4 @@ D:/HB/2_felev/c#/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/alloviz_a.tx
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.pdb
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/pythonalapcsharp.genruntimeconfig.cache
 /Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/obj/Debug/net8.0/ref/pythonalapcsharp.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/pythonalapcsharp/pythonalapcsharp/bin/Debug/net8.0/alloviz.txt
