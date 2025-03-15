@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "almafarm", "almafarm\almafarm.csproj", "{0F65666B-A2AE-4C94-AE6B-DCCE2A89E2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bank", "bank\bank.csproj", "{C0D4FECE-86F4-4E17-9845-B84F01A5C092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sakk2040", "sakk2040\sakk2040.csproj", "{2A4C8CD7-7FB1-45D1-8EBC-0CA3625197BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F65666B-A2AE-4C94-AE6B-DCCE2A89E2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F65666B-A2AE-4C94-AE6B-DCCE2A89E2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F65666B-A2AE-4C94-AE6B-DCCE2A89E2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F65666B-A2AE-4C94-AE6B-DCCE2A89E2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D4FECE-86F4-4E17-9845-B84F01A5C092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D4FECE-86F4-4E17-9845-B84F01A5C092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D4FECE-86F4-4E17-9845-B84F01A5C092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D4FECE-86F4-4E17-9845-B84F01A5C092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4C8CD7-7FB1-45D1-8EBC-0CA3625197BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4C8CD7-7FB1-45D1-8EBC-0CA3625197BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4C8CD7-7FB1-45D1-8EBC-0CA3625197BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4C8CD7-7FB1-45D1-8EBC-0CA3625197BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/bin/Debug/net8.0/eredmenyek.txt
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/bin/Debug/net8.0/sakk2040
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/bin/Debug/net8.0/sakk2040.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/bin/Debug/net8.0/sakk2040.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/bin/Debug/net8.0/sakk2040.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/bin/Debug/net8.0/sakk2040.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/refint/sakk2040.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/sakk2040.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#02/sakk2040/obj/Debug/net8.0/ref/sakk2040.dll

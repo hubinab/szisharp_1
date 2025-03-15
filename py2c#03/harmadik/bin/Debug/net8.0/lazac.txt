@@ -1,0 +1,5 @@
+Név;Tárgy;Dátum;Helyszín
+Hoonah;Lazac;2006.05.05.;Vízesés
+Siqiniq;Lazac;2006.03.24.;Indián falu
+Tug;Lazac;2006.08.23.;Vízesés
+Kenai;Lazac;2006.07.13.;Nagyfa

@@ -1,0 +1,15 @@
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/bin/Debug/net8.0/elso
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/bin/Debug/net8.0/elso.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/bin/Debug/net8.0/elso.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/bin/Debug/net8.0/elso.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/bin/Debug/net8.0/elso.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/refint/elso.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/elso.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/py2c#04/elso/obj/Debug/net8.0/ref/elso.dll
