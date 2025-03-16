@@ -1,0 +1,15 @@
+/Users/balazs/RiderProjects/Alapvizsga/piac/bin/Debug/net8.0/nyugta.txt
+/Users/balazs/RiderProjects/Alapvizsga/piac/bin/Debug/net8.0/piac
+/Users/balazs/RiderProjects/Alapvizsga/piac/bin/Debug/net8.0/piac.deps.json
+/Users/balazs/RiderProjects/Alapvizsga/piac/bin/Debug/net8.0/piac.runtimeconfig.json
+/Users/balazs/RiderProjects/Alapvizsga/piac/bin/Debug/net8.0/piac.dll
+/Users/balazs/RiderProjects/Alapvizsga/piac/bin/Debug/net8.0/piac.pdb
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.AssemblyInfoInputs.cache
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.AssemblyInfo.cs
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.csproj.CoreCompileInputs.cache
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.dll
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/refint/piac.dll
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.pdb
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.genruntimeconfig.cache
+/Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/ref/piac.dll
