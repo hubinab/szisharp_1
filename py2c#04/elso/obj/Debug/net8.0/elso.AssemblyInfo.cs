@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("elso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b180f4f5471104e6234a082eb18cc3988f4739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b54900b843a8971859c51614deabcf4006632380")]
 [assembly: System.Reflection.AssemblyProductAttribute("elso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("elso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

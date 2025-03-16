@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elso", "elso\elso.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masodik", "masodik\masodik.csproj", "{C3D0B633-2AD4-4C99-B304-2DED535E5AAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harmadik", "harmadik\harmadik.csproj", "{CF872BA4-3315-425D-BF11-5B415029B115}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C3D0B633-2AD4-4C99-B304-2DED535E5AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3D0B633-2AD4-4C99-B304-2DED535E5AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3D0B633-2AD4-4C99-B304-2DED535E5AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF872BA4-3315-425D-BF11-5B415029B115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF872BA4-3315-425D-BF11-5B415029B115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF872BA4-3315-425D-BF11-5B415029B115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF872BA4-3315-425D-BF11-5B415029B115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
