@@ -6,13 +6,10 @@ using(StreamReader filebe = new StreamReader("pontszamok.txt"))
     Versenyzok = new Contest[sorok.Length/2];
 
     int j = 0;
-    for (int i = 0; i < sorok.Length; i++)
+    for (int i = 1; i < sorok.Length; i+=2)
     {
-        if (i % 2 != 0)
-        {
-            Versenyzok[j] = new Contest(sorok[i-1].Trim(), int.Parse(sorok[i]));
-            j++;
-        }
+        Versenyzok[j] = new Contest(sorok[i-1].Trim(), int.Parse(sorok[i]));
+        j++;
     }
 }
 
