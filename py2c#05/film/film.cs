@@ -19,11 +19,14 @@ char kedvencBetu = Convert.ToChar(Console.ReadLine());
 
 Console.WriteLine($"Az ajánlott film: {Leggyakoribb(szovegTomb, kedvencBetu)}");
 
-
 // Visszaadja, hogy egy karakter hányszor fordul elő egy szövegben
 int StrChrCnt (string Szoveg, char Betu)
 {
     int count = 0;
+    
+    Szoveg = Szoveg.ToLower();
+    Betu = Char.ToLower(Betu);
+
     foreach (char karakter in Szoveg)
     {
         if (karakter == Betu)

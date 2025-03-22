@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("piac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31dc749443d7827c6436542d78f7560c0468e330")]
 [assembly: System.Reflection.AssemblyProductAttribute("piac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("piac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

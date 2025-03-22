@@ -12,3 +12,18 @@
 /Users/balazs/RiderProjects/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.pdb
 /Users/balazs/RiderProjects/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.genruntimeconfig.cache
 /Users/balazs/RiderProjects/Alapvizsga/atfogo/obj/Debug/net8.0/ref/atfogo.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/bin/Debug/net8.0/atfogo
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/bin/Debug/net8.0/atfogo.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/bin/Debug/net8.0/atfogo.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/bin/Debug/net8.0/atfogo.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/bin/Debug/net8.0/atfogo.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/refint/atfogo.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/atfogo.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/atfogo/obj/Debug/net8.0/ref/atfogo.dll

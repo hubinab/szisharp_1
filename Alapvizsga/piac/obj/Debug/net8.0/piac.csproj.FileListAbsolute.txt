@@ -13,3 +13,19 @@
 /Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.pdb
 /Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/piac.genruntimeconfig.cache
 /Users/balazs/RiderProjects/Alapvizsga/piac/obj/Debug/net8.0/ref/piac.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/bin/Debug/net8.0/nyugta.txt
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/bin/Debug/net8.0/piac
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/bin/Debug/net8.0/piac.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/bin/Debug/net8.0/piac.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/bin/Debug/net8.0/piac.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/bin/Debug/net8.0/piac.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/refint/piac.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/piac.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/Alapvizsga/piac/obj/Debug/net8.0/ref/piac.dll
