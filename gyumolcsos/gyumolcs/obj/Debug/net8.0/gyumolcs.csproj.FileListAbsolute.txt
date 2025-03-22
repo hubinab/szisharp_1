@@ -1,0 +1,16 @@
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/bin/Debug/net8.0/gyumolcsok.txt
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/bin/Debug/net8.0/gyumolcs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/bin/Debug/net8.0/gyumolcs.deps.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/bin/Debug/net8.0/gyumolcs.runtimeconfig.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/bin/Debug/net8.0/gyumolcs.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/bin/Debug/net8.0/gyumolcs.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.AssemblyInfoInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.AssemblyInfo.cs
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.csproj.CoreCompileInputs.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.sourcelink.json
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/refint/gyumolcs.dll
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.pdb
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/gyumolcs.genruntimeconfig.cache
+/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/gyumolcsos/gyumolcs/obj/Debug/net8.0/ref/gyumolcs.dll
