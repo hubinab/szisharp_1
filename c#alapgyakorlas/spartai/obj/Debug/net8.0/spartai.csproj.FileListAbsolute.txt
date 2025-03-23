@@ -1,0 +1,15 @@
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.GeneratedMSBuildEditorConfig.editorconfig
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.AssemblyInfoInputs.cache
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.AssemblyInfo.cs
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.csproj.CoreCompileInputs.cache
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\bin\Debug\net8.0\nyugta.txt
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\bin\Debug\net8.0\spartai.exe
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\bin\Debug\net8.0\spartai.deps.json
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\bin\Debug\net8.0\spartai.runtimeconfig.json
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\bin\Debug\net8.0\spartai.dll
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\bin\Debug\net8.0\spartai.pdb
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.dll
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\refint\spartai.dll
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.pdb
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\spartai.genruntimeconfig.cache
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\spartai\obj\Debug\net8.0\ref\spartai.dll

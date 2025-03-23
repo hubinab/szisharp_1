@@ -1,0 +1,14 @@
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\bin\Debug\net8.0\teglalap.exe
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\bin\Debug\net8.0\teglalap.deps.json
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\bin\Debug\net8.0\teglalap.runtimeconfig.json
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\bin\Debug\net8.0\teglalap.dll
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\bin\Debug\net8.0\teglalap.pdb
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.GeneratedMSBuildEditorConfig.editorconfig
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.AssemblyInfoInputs.cache
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.AssemblyInfo.cs
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.csproj.CoreCompileInputs.cache
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.dll
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\refint\teglalap.dll
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.pdb
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\teglalap.genruntimeconfig.cache
+D:\HB\2_felev\c#\c#alapgyakorlas\c#alapgyakorlas\teglalap\obj\Debug\net8.0\ref\teglalap.dll
