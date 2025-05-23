@@ -1,0 +1,26 @@
+Hajó neve;Típus;Gyártási év;Max utas;Étterem kapacitás;Jelleg;Utazósebesség
+Budapest;Eruka;1988;500;260;Rendezvényhajó;20
+Visegrád;Moszkva;1977;250;0;Kirándulóhajó;20
+Duna Corso;Moszkva;1978;150;0;Kirándulóhajó;20
+Esztergom;Moszkva;1981;250;0;Kirándulóhajó;20
+Dömös;Moszkva;1980;250;0;Kirándulóhajó;20
+Nagymaros;Moszkva;1977;250;0;Kirándulóhajó;20
+Bogdány;Moszkva;1978;250;0;Kirándulóhajó;20
+Sződliget;Moszkva;1979;250;0;Kirándulóhajó;20
+Győr;Moszkva;1982;150;80;Rendezvényhajó;20
+Gönyű;Moszkva;1979;150;80;Rendezvényhajó;20
+Corvin;Moszkva;1983;150;80;Rendezvényhajó;20
+Mathias Rex;Moszkva;1979;150;80;Rendezvényhajó;20
+Hullám;Moszkva;1981;150;80;Rendezvényhajó;20
+Rákóczi;700 személyes folyami személyhajó;1964;400;270;Rendezvényhajó;22
+Táncsics;700 személyes folyami személyhajó;1963;400;0;Kirándulóhajó;23
+Hunyadi;700 személyes folyami személyhajó;1966;600;60;Kirándulóhajó;23
+Sólyom II;Meteor;1988;112;0;Szárnyashajó;60
+Sólyom III;Meteor;1992;112;0;Szárnyashajó;60
+Vöcsök II;Voszhod-2;1985;71;0;Szárnyashajó;60
+Vöcsök III;Voszhod-2;1986;71;0;Szárnyashajó;60
+Vöcsök IV;Voszhod-2;1987;71;0;Szárnyashajó;60
+Bíbic I;Polesje;1992;54;0;Szárnyashajó;65
+Bíbic II;Polesje;1992;54;0;Szárnyashajó;65
+Bíbic III;Polesje;1993;54;0;Szárnyashajó;65
+Bíbic IV;Polesje;1994;54;0;Szárnyashajó;65
