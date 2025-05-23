@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("betuszam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367b0f18b8084690fcc5f5e0517ed8a0ae4ebeb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4e90b18be5374c1bffe27143746bc684728bbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("betuszam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("betuszam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
