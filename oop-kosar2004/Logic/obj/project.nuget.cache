@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1BHbbrgUKw=",
+  "success": true,
+  "projectFilePath": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/oop-kosar2004/Logic/Logic.csproj",
+  "expectedPackageFiles": [
+    "/Users/balazs/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

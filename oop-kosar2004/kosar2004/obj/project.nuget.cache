@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "McgZkJyNcBA=",
+  "success": true,
+  "projectFilePath": "/Users/balazs/Library/Mobile Documents/com~apple~CloudDocs/neumann/2_felev/git/szisharp_1/oop-kosar2004/kosar2004/kosar2004.csproj",
+  "expectedPackageFiles": [
+    "/Users/balazs/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.11/microsoft.netcore.app.host.osx-arm64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
