@@ -1,4 +1,5 @@
-﻿using Data;
+﻿using System.Globalization;
+using Data;
 using Logic;
 
 namespace kosar2004
@@ -52,7 +53,7 @@ namespace kosar2004
             Eredmeny[] hazaiCsapat100PontFelett = Logic.HazaiMerkozesen100PontFelett();
             foreach (var item in hazaiCsapat100PontFelett)
             {
-                Console.WriteLine($"\t{item.idopont}: {item.hazai} - {item.idegen} ({item.hazaiPont}:{item.idegenPont})");
+                Console.WriteLine($"\t{item.idopont.ToString(new CultureInfo("hu-hu"))}: {item.hazai} - {item.idegen} ({item.hazaiPont}:{item.idegenPont})");
             }
 
             Console.Write("8. feladat: Az időpont (pl.: 2004.11.21): ");
@@ -73,7 +74,7 @@ namespace kosar2004
 
             var LegnagyobbPontKulonbseguMerkozes = Logic.LegnagyobbPontKulonbseguMerkozes();
             Console.WriteLine("9. feladat: A legnagyobb pontkülönbségű mérkőzés adatai:");
-            Console.WriteLine($"\t{LegnagyobbPontKulonbseguMerkozes.idopont}: {LegnagyobbPontKulonbseguMerkozes.hazai} - {LegnagyobbPontKulonbseguMerkozes.idegen} ({LegnagyobbPontKulonbseguMerkozes.hazaiPont}:{LegnagyobbPontKulonbseguMerkozes.idegenPont})");
+            Console.WriteLine($"\t{LegnagyobbPontKulonbseguMerkozes.idopont.ToString(new CultureInfo("hu-hu"))}: {LegnagyobbPontKulonbseguMerkozes.hazai} - {LegnagyobbPontKulonbseguMerkozes.idegen} ({LegnagyobbPontKulonbseguMerkozes.hazaiPont}:{LegnagyobbPontKulonbseguMerkozes.idegenPont})");
 
             Console.WriteLine("10. feladat: Stadionok, ahol 20-nál több mérkőzést játszottak:");
             (string Stadion, int Merkozesek)[] MerkozesekSzamaStadiononkent = Logic.StadionokAhol20TobbMerkozestJatszottak();
